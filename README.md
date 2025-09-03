@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-THis is the folder with all files for the Capstone project
+This is the folder with all files for the Capstone project
