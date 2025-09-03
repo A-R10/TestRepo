@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-it is a markdown file in this repository.
+THis is the folder with all files for the Capstone project
